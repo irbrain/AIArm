@@ -3,5 +3,8 @@
 
 A low-cost 4-axis robotic arm for elementary, middle, and high school students controlled using Entry, Arduino, and AI Python coding
 
-![AIArm](images/aiarm.jpg)
+![AIArm](images/aiarm_1.jpg)
+
+
+![AIArm](images/aiarm_2.jpg)
 
